@@ -60,7 +60,7 @@ The data were retrospectively obtained from the TBI database prospectively maint
 
 #### Workflow
 
-<img src="result/flowchart.png">
+<img src="result/flowchart.png" width="600">
 
 #### Workflow (Extended)
 
